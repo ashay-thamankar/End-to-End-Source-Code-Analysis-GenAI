@@ -75,4 +75,11 @@ A powerful **source code analysis chatbot** that reads entire repositories, extr
 
 ---
 
+## 💻 Author  
+**Ashay Thamankar**  
+- [GitHub](https://github.com/ashay-thamankar)  
+- [LinkedIn](https://www.linkedin.com/in/ashay-thamankar)  
+
+---
+
 🎉 Dive into your codebase with ease and uncover insights like never before! 😊
